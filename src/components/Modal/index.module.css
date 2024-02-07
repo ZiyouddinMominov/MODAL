@@ -1,0 +1,30 @@
+.modal {
+  background-color: white;
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.closeBtn {
+  margin-top: 20px;
+  background-color: red;
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+  margin-right: 30px;
+}
+.okBtn {
+  margin-top: 20px;
+  background-color: green;
+  border: none;
+  padding: 15px;
+  border-radius: 10px;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+}
